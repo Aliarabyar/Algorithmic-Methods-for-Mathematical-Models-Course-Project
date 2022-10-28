@@ -1,0 +1,12 @@
+# file name: ../AMMMLabHeuristics/data/instance_XX.dat
+instancesDirectory = output;
+fileNamePrefix = medium;
+fileNameExtension = dat;
+numInstances = 1;
+
+n = 30;
+e= 75;
+
+m = 24;
+f= 19;
+
