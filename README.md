@@ -1,4 +1,5 @@
-# Algorithmic-Methods-for-Mathematical-Models-Course-Project
+# Algorithmic-Methods-for-Mathematical-Models
+# Course-Project
 OPL-CPLEX - Python - Heuristics and Meta-heuristics algorithms
 
 **Problem statement**
