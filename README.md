@@ -1,7 +1,8 @@
 # Algorithmic-Methods-for-Mathematical-Models-Course-Project
 OPL-CPLEX - Python - Heuristics and Meta-heuristics algorithms
 
-1 Problem statement
+**Problem statement**
+
 In order to develop a shape recognition program, a surveillance company uses a surveillance system consists of a camera, which can take pictures, and a distance sensor which provides auxiliary information. The goal of this system is to determine if a specific shape appears in it. In other words, this system matches a particular pattern in an Image.
 - We have an image is modelled with an undirected graph $G=(V ; E)$, where each vertex $v \in V$ is a point (pixel) in the image and $E \subseteq V \times V$.
 - An edge $\{u, v\} \in E$ is placed between points $u$ and $v$ according to an edge detection algorithm.
